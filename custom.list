@@ -42,8 +42,6 @@ DOMAIN,steamstore-a.akamaihd.net,DIRECT
 DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
 DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
 DOMAIN,dl.google.com,DIRECT
-DOMAIN,dl.google.com,DIRECT
-DOMAIN,dl.google.com,DIRECT
 
 # [OPENAI]
 DOMAIN-SUFFIX,chatgpt.com,OPENAI
