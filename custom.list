@@ -1,0 +1,94 @@
+# Custom rules source file.
+# The third column is the target policy used by the current template.
+
+# [DIRECT]
+DOMAIN-SUFFIX,lizhengbin.work,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
+DOMAIN-SUFFIX,bing.net,DIRECT
+DOMAIN-SUFFIX,ai-pixel.online,DIRECT
+DOMAIN-SUFFIX,14o.kangaroom.top,DIRECT
+DOMAIN-SUFFIX,jetbrains.com,DIRECT
+DOMAIN-SUFFIX,ubuntu.com,DIRECT
+DOMAIN-SUFFIX,hf.co,DIRECT
+DOMAIN-SUFFIX,huggingface.co,DIRECT
+DOMAIN-SUFFIX,fw.gl-inet.com,DIRECT
+DOMAIN-SUFFIX,tailscale.com,DIRECT
+DOMAIN-SUFFIX,cloudflare.com,DIRECT
+DOMAIN-SUFFIX,cdn.hf.co,DIRECT
+DOMAIN-SUFFIX,hf-mirror.com,DIRECT
+DOMAIN,sakuracat.link,DIRECT
+DOMAIN,sakura-cat.club,DIRECT
+DOMAIN,sub.sakuracat.club,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,microsoftstore.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,xboxlive.com,DIRECT
+DOMAIN-SUFFIX,office.com,DIRECT
+DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+DOMAIN-SUFFIX,msauth.net,DIRECT
+DOMAIN-SUFFIX,msftauth.net,DIRECT
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steamgames.com,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN-SUFFIX,steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamstatic.com,DIRECT
+DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+DOMAIN,steambroadcast.akamaized.net,DIRECT
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN,steamcommunity-a.akamaihd.net,DIRECT
+DOMAIN,steamstore-a.akamaihd.net,DIRECT
+DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
+DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
+
+# [OPENAI]
+DOMAIN-SUFFIX,chatgpt.com,OPENAI
+DOMAIN-SUFFIX,openai.com,OPENAI
+DOMAIN-SUFFIX,oaistatic.com,OPENAI
+DOMAIN-SUFFIX,oaiusercontent.com,OPENAI
+DOMAIN-SUFFIX,openaiusercontent.com,OPENAI
+DOMAIN-SUFFIX,auth.openai.com,OPENAI
+DOMAIN-SUFFIX,auth0.openai.com,OPENAI
+DOMAIN-SUFFIX,livekit.cloud,OPENAI
+DOMAIN-SUFFIX,statsigapi.net,OPENAI
+DOMAIN-SUFFIX,featuregates.org,OPENAI
+
+# [PROXY]
+DOMAIN-SUFFIX,gcld-line.com,🚀 节点选择
+DOMAIN-SUFFIX,lin.ee,🚀 节点选择
+DOMAIN-SUFFIX,line-apps-beta.com,🚀 节点选择
+DOMAIN-SUFFIX,line-apps-rc.com,🚀 节点选择
+DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
+DOMAIN-SUFFIX,line-beta.me,🚀 节点选择
+DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
+DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
+DOMAIN-SUFFIX,line.biz,🚀 节点选择
+DOMAIN-SUFFIX,line.me,🚀 节点选择
+DOMAIN-SUFFIX,linecorp.com,🚀 节点选择
+DOMAIN-SUFFIX,linefriends.com,🚀 节点选择
+DOMAIN-SUFFIX,linefriends.com.tw,🚀 节点选择
+DOMAIN-SUFFIX,linegame.jp,🚀 节点选择
+DOMAIN-SUFFIX,linemobile.com,🚀 节点选择
+DOMAIN-SUFFIX,linemyshop.com,🚀 节点选择
+DOMAIN-SUFFIX,lineshoppingseller.com,🚀 节点选择
+DOMAIN-SUFFIX,linetv.tw,🚀 节点选择
+DOMAIN-SUFFIX,naver.jp,🚀 节点选择
+DOMAIN-SUFFIX,nhncorp.jp,🚀 节点选择
+
+# [TELEGRAM]
+DOMAIN-SUFFIX,t.me,📲 电报消息
+DOMAIN-SUFFIX,tdesktop.com,📲 电报消息
+DOMAIN-SUFFIX,telegra.ph,📲 电报消息
+DOMAIN-SUFFIX,telegram.me,📲 电报消息
+DOMAIN-SUFFIX,telegram.org,📲 电报消息
+DOMAIN-SUFFIX,telesco.pe,📲 电报消息
+
+# [BILIBILI]
+DOMAIN-SUFFIX,biliintl.com,📺 哔哩哔哩
+DOMAIN-SUFFIX,bstar.tv,📺 哔哩哔哩
+DOMAIN-SUFFIX,bstarstatic.com,📺 哔哩哔哩
+
+# [BAHAMUT]
+DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
+DOMAIN-SUFFIX,gamer.com.tw,📺 巴哈姆特
