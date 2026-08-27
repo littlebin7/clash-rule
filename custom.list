@@ -43,6 +43,7 @@ DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
 DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,download.amd.com,DIRECT
+DOMAIN-SUFFIX,citrix.com,DIRECT
 
 # [OPENAI]
 DOMAIN-SUFFIX,chatgpt.com,OPENAI
