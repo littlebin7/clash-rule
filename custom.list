@@ -44,7 +44,7 @@ DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,download.amd.com,DIRECT
 DOMAIN-SUFFIX,citrix.com,DIRECT
-DOMAIN-SUFFIX,xiaomi.com,DIRECT
+DOMAIN,api.installer.xiaomi.com,DIRECT
 
 # [OPENAI]
 DOMAIN-SUFFIX,chatgpt.com,OPENAI
