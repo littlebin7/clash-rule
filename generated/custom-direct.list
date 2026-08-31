@@ -43,4 +43,4 @@ DOMAIN-SUFFIX,citrix.com
 DOMAIN,api.installer.xiaomi.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,python.org
-DOMAIN,cdn.jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.net
