@@ -62,23 +62,4 @@ DOMAIN-SUFFIX,statsigapi.net,OPENAI
 DOMAIN-SUFFIX,featuregates.org,OPENAI
 
 # [PROXY]
-DOMAIN-SUFFIX,gcld-line.com,🚀 节点选择
-DOMAIN-SUFFIX,lin.ee,🚀 节点选择
-DOMAIN-SUFFIX,line-apps-beta.com,🚀 节点选择
-DOMAIN-SUFFIX,line-apps-rc.com,🚀 节点选择
-DOMAIN-SUFFIX,line-apps.com,🚀 节点选择
-DOMAIN-SUFFIX,line-beta.me,🚀 节点选择
-DOMAIN-SUFFIX,line-cdn.net,🚀 节点选择
-DOMAIN-SUFFIX,line-scdn.net,🚀 节点选择
-DOMAIN-SUFFIX,line.biz,🚀 节点选择
-DOMAIN-SUFFIX,line.me,🚀 节点选择
-DOMAIN-SUFFIX,linecorp.com,🚀 节点选择
-DOMAIN-SUFFIX,linefriends.com,🚀 节点选择
-DOMAIN-SUFFIX,linefriends.com.tw,🚀 节点选择
-DOMAIN-SUFFIX,linegame.jp,🚀 节点选择
-DOMAIN-SUFFIX,linemobile.com,🚀 节点选择
-DOMAIN-SUFFIX,linemyshop.com,🚀 节点选择
-DOMAIN-SUFFIX,lineshoppingseller.com,🚀 节点选择
-DOMAIN-SUFFIX,linetv.tw,🚀 节点选择
-DOMAIN-SUFFIX,naver.jp,🚀 节点选择
-DOMAIN-SUFFIX,nhncorp.jp,🚀 节点选择
+
