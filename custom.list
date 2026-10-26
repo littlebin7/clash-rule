@@ -82,20 +82,3 @@ DOMAIN-SUFFIX,lineshoppingseller.com,🚀 节点选择
 DOMAIN-SUFFIX,linetv.tw,🚀 节点选择
 DOMAIN-SUFFIX,naver.jp,🚀 节点选择
 DOMAIN-SUFFIX,nhncorp.jp,🚀 节点选择
-
-# [TELEGRAM]
-DOMAIN-SUFFIX,t.me,📲 电报消息
-DOMAIN-SUFFIX,tdesktop.com,📲 电报消息
-DOMAIN-SUFFIX,telegra.ph,📲 电报消息
-DOMAIN-SUFFIX,telegram.me,📲 电报消息
-DOMAIN-SUFFIX,telegram.org,📲 电报消息
-DOMAIN-SUFFIX,telesco.pe,📲 电报消息
-
-# [BILIBILI]
-DOMAIN-SUFFIX,biliintl.com,📺 哔哩哔哩
-DOMAIN-SUFFIX,bstar.tv,📺 哔哩哔哩
-DOMAIN-SUFFIX,bstarstatic.com,📺 哔哩哔哩
-
-# [BAHAMUT]
-DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
-DOMAIN-SUFFIX,gamer.com.tw,📺 巴哈姆特
