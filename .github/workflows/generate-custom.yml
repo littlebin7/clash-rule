@@ -31,3 +31,10 @@ jobs:
           git add generated
           git diff --cached --quiet || git commit -m "chore: regenerate custom rule files"
           git push
+
+      - name: Purge jsDelivr CDN
+        run: |
+          for file in generated/*.list; do
+            echo "Purging ${file}"
+            curl -fsS "https://purge.jsdelivr.net/gh/littlebin7/clash-rule@main/${file}" || true
+          done
