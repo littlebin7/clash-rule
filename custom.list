@@ -48,6 +48,7 @@ DOMAIN,api.installer.xiaomi.com,DIRECT
 DOMAIN-SUFFIX,nodejs.org,DIRECT
 DOMAIN-SUFFIX,python.org,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
+DOMAIN-SUFFIX,cloudflarestorage.com,DIRECT
 
 # [OPENAI]
 DOMAIN-SUFFIX,chatgpt.com,OPENAI
