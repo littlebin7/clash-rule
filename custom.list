@@ -49,6 +49,14 @@ DOMAIN-SUFFIX,nodejs.org,DIRECT
 DOMAIN-SUFFIX,python.org,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
 DOMAIN-SUFFIX,cloudflarestorage.com,DIRECT
+DOMAIN-SUFFIX,gh-proxy.com,DIRECT
+DOMAIN-SUFFIX,ghproxy.net,DIRECT
+DOMAIN-SUFFIX,gh-proxy.org,DIRECT
+DOMAIN-SUFFIX,ghproxy.icu,DIRECT
+DOMAIN-SUFFIX,gh.monlor.com,DIRECT
+DOMAIN-SUFFIX,ghproxy.imciel.com,DIRECT
+DOMAIN-SUFFIX,cdn.statically.io,DIRECT
+DOMAIN-SUFFIX,raw.githack.com,DIRECT
 
 # [OPENAI]
 DOMAIN-SUFFIX,chatgpt.com,OPENAI
